@@ -1,0 +1,22 @@
+header{
+	background: #222032e6;
+	color: #ffffff;
+	height: 300px; 
+}
+header img{
+	float: left;
+	width: 20%;
+	margin:50px;
+	border-radius: 100px;
+}
+header h1{
+	text-align: center;
+	margin-right: 215px;
+	font-size: 250%;
+	padding-top: 100px;
+	
+}
+header h3{
+	text-align: right;
+	margin-right: 300px;
+}
